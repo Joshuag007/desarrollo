@@ -1,5 +1,5 @@
-#Rama de desarrollo2
+# Rama de desarrollo2
 Tarea 2
 Laboratio2
-##Agregado recientemente
+## Agregado recientemente
 Resolución de parcial de 2 segundo registro
